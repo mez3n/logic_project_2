@@ -1,0 +1,20 @@
+# Compile of inverse_sbox.v was successful.
+# Compile of inverse_sbox_32.v was successful.
+# Compile of inverse_sbox_128.v was successful.
+# Compile of Key_Schedule.v was successful with warnings.
+# Compile of Key_schedule_tb.v was successful.
+# Compile of Sbox.v was successful.
+# Compile of sbox_32.v was successful.
+# Compile of sbox_128.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.Key_schedule_tb
+# vsim -gui work.Key_schedule_tb 
+# Start time: 00:07:44 on May 12,2023
+# Loading work.Key_schedule_tb
+# Loading work.key_schedule
+# Loading work.sbox_128
+# Loading work.sbox_32
+# Loading work.sbox
+run -all
+# End time: 00:07:58 on May 12,2023, Elapsed time: 0:00:14
+# Errors: 0, Warnings: 5

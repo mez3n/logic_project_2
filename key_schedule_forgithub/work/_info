@@ -1,0 +1,196 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vinverse_sbox
+Z0 !s110 1683839258
+!i10b 1
+!s100 7d<:[08:H[`:Hoa;<W1i<2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzoC7oI<FYPC18a6dZ_Q^M3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub
+w1682420319
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox.v
+!i122 0
+Z4 L0 1 266
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1683839258.000000
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vinverse_sbox_128
+R0
+!i10b 1
+!s100 G_ILT1AHeG1YFl9Jd?zMX1
+R1
+Id;9=h:ZbSkQ;o8k60B<gj2
+R2
+R3
+w1683832732
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_128.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_128.v
+!i122 2
+Z9 L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_128.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_128.v|
+!i113 1
+R7
+R8
+vinverse_sbox_32
+R0
+!i10b 1
+!s100 Gb?1YiC:QXCc7^K5Lg3Sj3
+R1
+IPHOUi8RH5?^JKEaTlkLTM2
+R2
+R3
+w1683832762
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_32.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_32.v
+!i122 1
+Z10 L0 1 17
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/inverse_sbox_32.v|
+!i113 1
+R7
+R8
+vkey_schedule
+R0
+!i10b 1
+!s100 c82@;lKDgB6c?=Z]^0jeR1
+R1
+I^W:Y0ZaTbIzFFCM`XV69S2
+R2
+R3
+w1683837793
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_Schedule.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_Schedule.v
+!i122 3
+L0 1 342
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_Schedule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_Schedule.v|
+!i113 1
+R7
+R8
+vKey_schedule_tb
+R0
+!i10b 1
+!s100 E2lXDU]d:Q15ef4MCOO500
+R1
+I`3:`8T=H8VmBAgdnMn:cE3
+R2
+R3
+w1683838246
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_schedule_tb.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_schedule_tb.v
+!i122 4
+L0 1 36
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_schedule_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Key_schedule_tb.v|
+!i113 1
+R7
+R8
+n@key_schedule_tb
+vsbox
+R0
+!i10b 1
+!s100 [E?mY]QnG<[onNeEdSYN[2
+R1
+ID3W>KVXecdX=BAKPh<B<L0
+R2
+R3
+w1683203213
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Sbox.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Sbox.v
+!i122 5
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Sbox.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/Sbox.v|
+!i113 1
+R7
+R8
+vsbox_128
+R0
+!i10b 1
+!s100 RX[IhRYm>;CdX^Pe^iiWB3
+R1
+I99Oz6?ea7f4P4VaHg3@nh2
+R2
+R3
+w1683831369
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_128.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_128.v
+!i122 7
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_128.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_128.v|
+!i113 1
+R7
+R8
+vsbox_32
+R0
+!i10b 1
+!s100 F0>2n10IeGi3i[g:N`<Oi0
+R1
+IC:KVLoXVT`Ggdl_j?]<:P0
+R2
+R3
+w1683831355
+8C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_32.v
+FC:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_32.v
+!i122 6
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moham/OneDrive/Desktop/Logic Project materials/key_schedule_forgithub/sbox_32.v|
+!i113 1
+R7
+R8
